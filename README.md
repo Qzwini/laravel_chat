@@ -1,4 +1,4 @@
-# Laravel 7 - Realtime Chat Application
+# Laravel 8 - Realtime Chat Application
 
 ## auth
 ```php
